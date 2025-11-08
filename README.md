@@ -1,13 +1,8 @@
-# my_barcode
+# 📷 Streamlit Barcode Scanner
 
-This repository contains code for generating and reading barcodes.
+A Streamlit app that scans barcodes using your webcam and fetches product details via public APIs.
 
-## Features
-
-- Generate barcodes in different formats  
-- Read and decode barcodes from images
-
-## Requirements
-
-- Python >= 3.6
-- Install dependencies with:  
+## 🚀 Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
